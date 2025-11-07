@@ -5,7 +5,7 @@
 <p align="left">Me chamo Miguel de Azevedo Miranda, tenho 20 anos e sou natural de Turmalina, Minas Gerais. Concluí o ensino médio pelo IFNMG, em Teofilo Otoni, onde também cursei e concluí o curso técnico em Gestão Empreendedora. Atualmente, curso Engenharia de controle e automação na UFOP. Gosto muito de tecnologia e, no momento, desenvolvo projetos individuais e em equipe, explorando os conhecimentos adquiridos tanto na universidade quanto em cursos externos.</p>
 
 ###
-
+---
 <h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
 ###
@@ -42,7 +42,7 @@
 </div>
 
 ###
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelAzevedoMiranda/MiguelAzevedoMiranda/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelAzevedoMiranda/MiguelAzevedoMiranda/output/pacman-contribution-graph.svg">
